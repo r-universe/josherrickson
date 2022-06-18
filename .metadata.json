@@ -1,0 +1,10 @@
+[
+  {
+    "package": "howManyImputations",
+    "oncran": true
+  },
+  {
+    "package": "rlemon",
+    "oncran": true
+  }
+]
